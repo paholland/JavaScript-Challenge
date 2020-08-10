@@ -7,4 +7,4 @@ Rendering Table (table renders without error on page load; table includes all co
 Filtering Data (event handler calls a function to filter the data; successfully grabs in the input value; correctly uses the filter method to get the new table data based off the given input; prevents the page from reloading using D3; code is able to handle five total filters at ones; the multi-filtered data is then rendered back to the table)
 
 ** to be cont
-## HTML, CSS, JavaScript
+## HTML, CSS, JavaScript, D3
